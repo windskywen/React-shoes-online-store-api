@@ -1,6 +1,6 @@
 # React-shoes-online-store-api
 This is the API for online store project
 
-HOW TO START THE API:
+Start the API by typing the following in Termianl:
 
 nodemon server.js
